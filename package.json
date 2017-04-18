@@ -1,0 +1,35 @@
+{
+  "name": "scrabble_scorer_extension",
+  "version": "1.0.0",
+  "description": "Awesome Scrabble extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tz3/scrabble_scorer_extension.git"
+  },
+  "keywords": [
+    "extension"
+  ],
+  "author": "Akhmetov Rinat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tz3/scrabble_scorer_extension/issues"
+  },
+  "homepage": "https://github.com/tz3/scrabble_scorer_extension#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-browserify": "^0.5.1",
+    "gulp-uglify": "^2.1.2"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "notifyjs-browser": "^0.4.2"
+  }
+}

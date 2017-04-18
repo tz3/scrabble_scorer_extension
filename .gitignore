@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+content.js
+index.js
+filewatcher/
+.idea/
+node_modules/

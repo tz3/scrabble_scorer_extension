@@ -1,0 +1,19 @@
+{
+  "name": "Word Scorer, Nitrio Edition",
+  "description": "Awesome tool for Scrabble",
+  "version": "0.1",
+  "manifest_version": 2,
+  "background": {
+    "persistent": false,
+    "scripts": [
+      "index.js"
+    ]
+  },
+  "permissions": [
+    "storage",
+    "contextMenus",
+    "tabs",
+    "http://*/*",
+    "https://*/*"
+  ]
+}
