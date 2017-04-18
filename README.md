@@ -20,7 +20,7 @@ Highlight the word on page, call context menu, for example via right-click mouse
 then choose "Score word" in menu.
 A result you will see notification in right top corner.
 The notification will disappear after 5 seconds.
-[!image](https://github.com/tz3/scrabble_scorer_extension/blob/master/images/screenshot.jpg)
+![image](https://github.com/tz3/scrabble_scorer_extension/blob/master/images/screenshot.jpg)
 
 
 ## Development
