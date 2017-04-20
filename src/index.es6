@@ -1,5 +1,5 @@
 let getScore = (word) => {
-    return fetch('http://localhost:3000/score_word/' + word)
+    return fetch('http://95.85.42.243:3000/score_word/' + word)
         .then(response => {
             return response.json()
         })
